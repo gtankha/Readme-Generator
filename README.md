@@ -1,7 +1,7 @@
 
-  ![](https://img.shields.io/badge/License-IPL%201.0-blue.svg)
+  ![](https://licensebuttons.net/l/zero/1.0/80x15.png)
 
-  # password generator
+  # asdasda
 
 
   ## Table of Contents
@@ -18,46 +18,46 @@
   <a name="description"></a>
   ## 1. Description
 
-  generates password
+  asdasd
  
   <a name="installation"></a> 
   ## 2. Installation
 
-  install al ot
+  adsasd
 
   <a name="usage"></a> 
   ## 3. Usage
 
-  use a lot
+  adads
 
   <a name="license"></a> 
   ## 4. License
   
-  use a lot
+  adads
 
   <a name="contributing"></a>
   ## 5. Contributing
     
-  everyone
+  adasd
 
   <a name="tests"></a> 
   ## 6. Test
       
-  test tes tes
+  asdasd
 
   <a name="license"></a> 
   ## 7. License
       
-  [IBM Public License Version 1.0](https://opensource.org/licenses/IPL-1.0)
+  [Creative Commons CCO 1.0](http://creativecommons.org/publicdomain/zero/1.0/)
 
-  URL: https://opensource.org/licenses/IPL-1.0
+  URL: http://creativecommons.org/publicdomain/zero/1.0/
 
   <a name="questions"></a> 
   ## 8. Questions
   
-  GitHub Username: gtankha
+  GitHub Username: asdasd
 
-  GitHub Profile: s@s.com
+  GitHub Profile: https://github.com/gtankha/
   
-  In case of any questions, please reach out to the following contact email: r@r.com
+  In case of any questions, please reach out to the following contact email: w@w.com
 

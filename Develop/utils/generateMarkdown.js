@@ -72,16 +72,12 @@ const generateMarkdown = data => {
       licenseUrl = "https://opensource.org/licenses/Zlib";
       break;
   };
-// Displays the readme file
+  // Displays the readme file
   return `
   ![](${licenseImage})
 
   # ${title}
 
-  <a name="description"></a>
-  ## Description:
-
-  ${description}
 
   ## Table of Contents
 
@@ -94,8 +90,13 @@ const generateMarkdown = data => {
   7. [Questions](#questions)
 
 
+  <a name="description"></a>
+  ## 1. Description
+
+  ${description}
  
-## <a name="installation"></a> 2. Installation
+  <a name="installation"></a> 
+  ## 2. Installation
 
   ${installation}
 

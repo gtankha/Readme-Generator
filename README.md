@@ -1,5 +1,5 @@
 
-  # ABCDEFG
+  # Gautam
 
   <a name="description"></a>
   ## Description:
@@ -8,13 +8,13 @@
 
   ## Table of Contents
 
-  1. [Description] (#description)
-  2. [Installation] (#installation)
-  3. [Usage] (#usage)
-  4. [License] (#license)
-  5. [Contributing] (#contributing)
-  6. [Tests] (#tests)
-  7. [Questions] (#questions)
+  * [Description] (#description)
+  * [Installation] (#installation)
+  * [Usage] (#usage)
+  * [License] (#license)
+  * [Contributing] (#contributing)
+  * [Tests] (#tests)
+  * [Questions] (#questions)
 
 
   <a name="installation"></a>
@@ -45,10 +45,10 @@
   <a name="license"></a>
   ## 7. License
       
-  Microsoft
+  Mozilla Public License 2.0
 
   <a name="questions"></a>
   ## 7. Questions
       
-  Microsoft
+  Mozilla Public License 2.0
 

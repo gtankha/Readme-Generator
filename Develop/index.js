@@ -105,7 +105,7 @@ const readmeQuestionnaire = () => {
       type: 'list',
       name: 'license',
       message: questions[6],
-      choices: ['MIT', 'GNU GPLv3', 'Apache', 'Microsoft', 'Mozilla Public License 2.0', 'Uni License', 'Boost Software License']
+      choices: ['Apache 2.0', 'Boost Software License 1.0', 'BSD 3-Clause License', 'Creative Commons CCO 1.0', 'Eclipse 1.0','GNU GPL v3','IBM Public License Version 1.0','ISC','MIT','Mozilla Public License 2.0','Open Data Commons - Attributition License (BY)', 'The Perl License','SIL Open Font License 1.1','The Unlicense','Zlib']
     },
     {
       type: 'input',
@@ -190,9 +190,6 @@ function init() {
     });
 
     };
-
-
-
 
 // function call to initialize program
 init();

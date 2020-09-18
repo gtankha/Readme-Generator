@@ -4,7 +4,7 @@
 
 const generateMarkdown = data => {
 
-  console.log(data);
+ 
   // Destructures and assigns value based on object from response
   const { title, description, installation, usage, contribution, test, license, githubUsername, githubProfile, email } = data;
   let licenseImage = "";

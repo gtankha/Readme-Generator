@@ -43,7 +43,7 @@
   <a name="tests"></a> 
   ## 6. Test
       
-  No specific test instructions
+  You can test for the following: 1. All input fields are required 2. Only a valid URL link can be entered for the git hub repository link 3. Only a valid email address can be entered
 
   <a name="license"></a> 
   ## 7. License

@@ -179,7 +179,7 @@ function init() {
       return (generateMarkdown(processQuestionnaire));
     })
     .then(displayQuestionnaire => {
-      return (writeToFile('../README.md',displayQuestionnaire)); 
+      return (writeToFile('../SAMPLEREADME.md',displayQuestionnaire)); 
     })
     .catch(err => {
       console.log(err);

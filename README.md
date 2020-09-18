@@ -28,12 +28,12 @@
   <a name="usage"></a> 
   ## 3. Usage
 
-  Once the package installation is complete, go ahead run the program by typing “node index” within the terminal. Ensure you are in the Develop directory.Answer all the required questions with detailed information about each item. Once all questions are answered, a README.MD file will be created in the parent directory. Please proceed to your github repository to view the file. 
+  Once the package installation is complete, go ahead run the program by typing “node index” within the terminal. Ensure you are in the Develop directory.Answer all the required questions with detailed information about each item. Once all questions are answered, a README.MD file will be created in the parent directory. Please proceed to your github repository to view the file.
 
   <a name="license"></a> 
   ## 4. License
   
-  Once the package installation is complete, go ahead run the program by typing “node index” within the terminal. Ensure you are in the Develop directory.Answer all the required questions with detailed information about each item. Once all questions are answered, a README.MD file will be created in the parent directory. Please proceed to your github repository to view the file. 
+  Once the package installation is complete, go ahead run the program by typing “node index” within the terminal. Ensure you are in the Develop directory.Answer all the required questions with detailed information about each item. Once all questions are answered, a README.MD file will be created in the parent directory. Please proceed to your github repository to view the file.
 
   <a name="contributing"></a>
   ## 5. Contributing

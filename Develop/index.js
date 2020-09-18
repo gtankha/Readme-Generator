@@ -17,7 +17,7 @@ const questions = [
   'GitHub Profile Link: ',
   'Email address: '
 ];
-
+/* ---------------------------- QUESTIONS AND ANSWERS FOR THE README FILE ------------------------------------*/
 const readmeQuestionnaire = () => {
   return inquirer.prompt([
     {
@@ -149,13 +149,7 @@ const readmeQuestionnaire = () => {
   ]);
 };
 
-
-
-
-// function to write README file
-//function writeToFile(fileName, data) {
-//       }
-
+/* ------------------------ FUNCTION TO WRITE README FILE ------------------------------------- */
 const writeToFile = (fileName, data) => {
   return new Promise((resolve, reject) => {
     fs.writeFile(fileName, data, err => {
@@ -176,7 +170,7 @@ const writeToFile = (fileName, data) => {
 };
 
 
-// function to initialize program
+/* ------------------------ FUNCTION TO INITIALIZE PROGRAM------------------------------------- */
 function init() {
   readmeQuestionnaire()
     .then(processQuestionnaire => {

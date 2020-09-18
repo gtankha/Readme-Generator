@@ -1,12 +1,15 @@
 
 
-// function to generate markdown for README
+/* ----------------------------- FUNCTION TO GENERATE MARKDOWN FOR README -------------------------------------*/
+
 const generateMarkdown = data => {
 
   console.log(data);
+  // Destructures and assigns value based on object from response
   const { title, description, installation, usage, contribution, test, license, githubUsername, githubProfile, email } = data;
   let licenseImage = "";
   let licenseUrl = "";
+  // Picks the license image and URL based on selectin of the license
   switch (license) {
     case 'Apache 2.0':
       licenseImage = "https://img.shields.io/badge/License-Apache%202.0-blue.svg";
@@ -69,7 +72,7 @@ const generateMarkdown = data => {
       licenseUrl = "https://opensource.org/licenses/Zlib";
       break;
   };
-
+// Displays the readme file
   return `
   ![](${licenseImage})
 

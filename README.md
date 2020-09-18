@@ -1,12 +1,8 @@
 
-  ![](https://img.shields.io/badge/License-GPLv3-blue.svg)
+  ![](https://img.shields.io/badge/License-IPL%201.0-blue.svg)
 
-  # Readme Generator
+  # password generator
 
-  <a name="description"></a>
-  ## Description:
-
-  Generates a readme file
 
   ## Table of Contents
 
@@ -19,10 +15,15 @@
   7. [Questions](#questions)
 
 
- 
-## <a name="installation"></a> 2. Installation
+  <a name="description"></a>
+  ## 1. Description
 
-  Install doing the following
+  generates password
+ 
+  <a name="installation"></a> 
+  ## 2. Installation
+
+  install al ot
 
   <a name="usage"></a> 
   ## 3. Usage
@@ -37,26 +38,26 @@
   <a name="contributing"></a>
   ## 5. Contributing
     
-  evryone
+  everyone
 
   <a name="tests"></a> 
   ## 6. Test
       
-  test
+  test tes tes
 
   <a name="license"></a> 
   ## 7. License
       
-  GNU GPL v3
+  [IBM Public License Version 1.0](https://opensource.org/licenses/IPL-1.0)
 
-  URL: https://www.gnu.org/licenses/gpl-3.0
+  URL: https://opensource.org/licenses/IPL-1.0
 
   <a name="questions"></a> 
   ## 8. Questions
   
   GitHub Username: gtankha
 
-  GitHub Profile: a@a.com
+  GitHub Profile: s@s.com
   
-  In case of any questions, please reach out to the following contact email: gtankha@gotmail.com
+  In case of any questions, please reach out to the following contact email: r@r.com
 

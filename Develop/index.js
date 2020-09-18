@@ -1,6 +1,7 @@
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
 const fs = require('fs');
+const validator = require("email-validator");
 
 
 inquirer;
@@ -28,7 +29,7 @@ const readmeQuestionnaire = () => {
         if (nameInput) {
           return true;
         } else {
-          console.log('Please enter project title (Required)');
+          console.log('Project title is REQUIRED');
           return false;
         }
       }
@@ -41,7 +42,7 @@ const readmeQuestionnaire = () => {
         if (nameInput) {
           return true;
         } else {
-          console.log('Please enter project description (Required)');
+          console.log('Project description is REQUIRED');
           return false;
         }
       }
@@ -54,7 +55,7 @@ const readmeQuestionnaire = () => {
         if (nameInput) {
           return true;
         } else {
-          console.log('Please enter installation instructions (Required)');
+          console.log('Installation instructions are REQUIRED');
           return false;
         }
       }
@@ -67,7 +68,7 @@ const readmeQuestionnaire = () => {
         if (nameInput) {
           return true;
         } else {
-          console.log('Please enter usage information (Required)');
+          console.log('Usage information is REQUIRED');
           return false;
         }
       }
@@ -81,7 +82,7 @@ const readmeQuestionnaire = () => {
         if (nameInput) {
           return true;
         } else {
-          console.log('Please enter contribution guidelines (Required)');
+          console.log('Contribution guidelines are REQUIRED');
           return false;
         }
       }
@@ -95,7 +96,7 @@ const readmeQuestionnaire = () => {
         if (nameInput) {
           return true;
         } else {
-          console.log('Please enter test instructions (Required)');
+          console.log('Test instructions are REQUIRED');
           return false;
         }
       }
@@ -115,7 +116,7 @@ const readmeQuestionnaire = () => {
         if (nameInput) {
           return true;
         } else {
-          console.log('Please enter github username (Required)');
+          console.log('Username is REQUIRED');
           return false;
         }
       }
@@ -128,7 +129,7 @@ const readmeQuestionnaire = () => {
         if (nameInput) {
           return true;
         } else {
-          console.log('Please enter github profile link (Required)');
+          console.log('Github profile link  is REQUIRED');
           return false;
         }
       }
@@ -138,10 +139,10 @@ const readmeQuestionnaire = () => {
       name: 'email',
       message: questions[9],
       validate: nameInput => {
-        if (nameInput) {
+        if (validator.validate(nameInput)) {
           return true;
         } else {
-          console.log('Please enter your emaail address (Required)');
+          console.log('Valid email address is REQUIRED');
           return false;
         }
       }

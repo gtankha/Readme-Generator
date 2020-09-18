@@ -9,7 +9,7 @@ const generateMarkdown = data => {
   const { title, description, installation, usage, contribution, test, license, githubUsername, githubProfile, email } = data;
   let licenseImage = "";
   let licenseUrl = "";
-  // Picks the license image and URL based on selectin of the license
+  // Picks the license image and URL based on selection of the license
   switch (license) {
     case 'Apache 2.0':
       licenseImage = "https://img.shields.io/badge/License-Apache%202.0-blue.svg";
@@ -123,7 +123,7 @@ const generateMarkdown = data => {
   <a name="license"></a> 
   ## 7. License
       
-  ${license}
+  [${license}](${licenseUrl})
 
   URL: ${licenseUrl}
 

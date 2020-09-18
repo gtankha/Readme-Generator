@@ -71,7 +71,7 @@ const generateMarkdown = data => {
   };
 
   return `
-  !(${licenseImage})
+  ![](${licenseImage})
 
   # ${title}
 
@@ -130,7 +130,7 @@ const generateMarkdown = data => {
 
   GitHub Profile: ${githubProfile}
   
-  In case of any questions, please reach out directly: ${email}
+  In case of any questions, please reach out to the following contact email: ${email}
 
 `;
 

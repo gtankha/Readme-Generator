@@ -1,12 +1,12 @@
 
-  !(https://img.shields.io/badge/License-EPL%201.0-red.svg)
+  ![](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-  # Gautam Tankha
+  # Readme Generator
 
   <a name="description"></a>
   ## Description:
 
-  This is the description
+  Generates a readme file
 
   ## Table of Contents
 
@@ -22,41 +22,41 @@
  
 ## <a name="installation"></a> 2. Installation
 
-  Install al ot
+  Install doing the following
 
   <a name="usage"></a> 
   ## 3. Usage
 
-  yse ssue use
+  use a lot
 
   <a name="license"></a> 
   ## 4. License
   
-  yse ssue use
+  use a lot
 
   <a name="contributing"></a>
   ## 5. Contributing
     
-  contribute everyone
+  evryone
 
   <a name="tests"></a> 
   ## 6. Test
       
-  tes t test test 
+  test
 
   <a name="license"></a> 
   ## 7. License
       
-  Eclipse 1.0
+  GNU GPL v3
 
-  URL: https://opensource.org/licenses/EPL-1.0
+  URL: https://www.gnu.org/licenses/gpl-3.0
 
   <a name="questions"></a> 
   ## 8. Questions
   
   GitHub Username: gtankha
 
-  GitHub Profile: gtankha@github.com
+  GitHub Profile: a@a.com
   
-  In case of any questions, please reach out directly: gtankha@hotmail.com
+  In case of any questions, please reach out to the following contact email: gtankha@gotmail.com
 

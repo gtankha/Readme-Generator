@@ -130,7 +130,7 @@ const readmeQuestionnaire = () => {
         if (validUrl.isWebUri(nameInput)) {
           return true;
         } else {
-          console.log('Github profile link  is REQUIRED');
+          console.log('Valid GitHub profile link  is REQUIRED');
           return false;
         }
       }

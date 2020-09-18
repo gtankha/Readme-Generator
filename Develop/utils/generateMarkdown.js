@@ -15,26 +15,26 @@ const generateMarkdown = data => {
 
   ## Table of Contents
 
-  * [Description] (#description)
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [License] (#license)
-  * [Contributing] (#contributing)
-  * [Tests] (#tests)
-  * [Questions] (#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
 
-  <a name="installation"></a>
-## 2. Installation
+ 
+## <a name="installation"></a> 2. Installation
 
   ${installation}
 
-  <a name="usage"></a>
+  <a name="usage"></a> 
   ## 3. Usage
 
   ${usage}
 
-  <a name="license"></a>
+  <a name="license"></a> 
   ## 4. License
   
   ${usage}
@@ -44,17 +44,17 @@ const generateMarkdown = data => {
     
   ${contribution}
 
-  <a name="test"></a>
+  <a name="test"></a> 
   ## 6. Test
       
   ${test}
 
-  <a name="license"></a>
+  <a name="license"></a> 
   ## 7. License
       
   ${license}
 
-  <a name="questions"></a>
+  <a name="questions"></a> 
   ## 7. Questions
       
   ${license}
